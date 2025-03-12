@@ -58,8 +58,8 @@
 ---
 
 ### 🔥 &nbsp; My Stats :
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Yugp72&theme=dark" alt="GitHub Streak" /></a>
-
+<!--- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Yugp72&theme=dark" alt="GitHub Streak" /></a>--->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=Yugp72&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yugp72&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </td>
