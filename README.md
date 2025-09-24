@@ -1,4 +1,4 @@
-<!-- <img src="assets/banner.png" /> -->
+<img src="assets/banner.png" /> 
 
 
 ## <img src="assets/wave.gif" width="22px" /> Hello! Myself Yug and I'm Grad Student based in San Jose, CA
